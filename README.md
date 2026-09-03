@@ -6,7 +6,7 @@
 
 | Курс                                          | Статус                        | Папка              | Фокус в разборе                 |
 | --------------------------------------------- | ----------------------------- | ------------------ | ------------------------------- |
-| JavaScript Algorithms and Data Structures     | ✅ **22%** (291 из 1320 задач) | `javascript-cert/` | Loops/Build a Sentence Analyzer |
+| JavaScript Algorithms and Data Structures     | ✅ **22%** (291 из 1320 задач) | [javascript-cert/](javascript-cert/) | Loops/Build a Sentence Analyzer |
 | Responsive Web Design Certification           | 🚫 Не начат (302 задачи)      | —                  | —                               |
 | Front-End Development Libraries Certification | 🚫 Не начат (524)             | —                  | —                               |
 | Python Certification                          | 🚫 Не начат (540)             | —                  | —                               |
@@ -20,7 +20,7 @@
 
 ## 📂 Как устроена структура
 
-- `javascript-cert/`: решения задач по JS + разбор алгоритмов. Внутри лежит свой `README.md` с детальной картой тем и файлами.
+- [javascript-cert/](javascript-cert/): решения задач по JS + разбор алгоритмов. Внутри лежит свой `README.md` с детальной картой тем и файлами.
 - Остальные папки появятся, когда я начну новые курсы.
 
 ---
