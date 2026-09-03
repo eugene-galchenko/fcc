@@ -15,7 +15,7 @@
 | Functions | ✅ 100% | |
 | Arrays | ✅ 100% | |
 | Objects | ✅ 100% | |
-| **Loops** | ⚠️ В работе | |
+| [Loops](loops) | ⚠️ В работе | |
 | **JavaScript Fundamentals Review** | ❌ Не начато | |
 | Higher Order Functions and Callbacks | ❌ Не начато | |
 | DOM Manipulation and Events | ❌ Не начато | |
